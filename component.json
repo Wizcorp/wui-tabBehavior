@@ -1,0 +1,9 @@
+{
+	"name": "wui-tabBehavior",
+	"version": "0.1.0",
+	"repo": "Wizcorp/wui-buttonBehavior",
+	"description": "Generic tab wui behavior",
+	"scripts": [
+		"index.js"
+	]
+}
